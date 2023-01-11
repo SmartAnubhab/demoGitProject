@@ -1,0 +1,2 @@
+hello i am a text file inside another branch.
+I am edited with nano text editor inside bash.
