@@ -1,2 +1,0 @@
-Hi i am a new file created in a branch
-new branch specifically.
